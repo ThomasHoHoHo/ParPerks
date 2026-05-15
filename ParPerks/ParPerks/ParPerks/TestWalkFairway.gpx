@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    <!-- Point 1: Start just right outside the red circle -->
+    <wpt lat="40.74750" lon="-111.82230">
+        <name>StartPoint</name>
+    </wpt>
+    <!-- Point 2: Ends right inside the red circle -->
+    <wpt lat="40.74734" lon="-111.82215">
+        <name>EndPoint</name>
+    </wpt>
+</gpx>
